@@ -1,0 +1,103 @@
+@charset "utf-8";
+
+body { font-family: "Avenir", cursive, sans-serif;  
+
+background-color: #F7F8E0;
+
+
+ }
+
+a:link { color:##F5ECCE; text-decoration: none; display: block; }
+a.nav-link:link
+{
+   color: #F5ECCE;
+   text-decoration: none;
+}
+a.nav-link:visited
+{
+   color: #E57609;
+   text-decoration: none;
+}
+a.nav-link:hover
+{
+   color:#F5ECCE ;
+   text-decoration: none;
+}
+a.nav-link:active
+{
+   color: ;#F5ECCE   text-decoration: none;
+}
+
+#container { margin-left: auto; margin-right: auto; width:960px; }
+
+#title { height: 300px; border: 0px solid #000; clear:both;  }
+#logo{float:right; padding-top:20px;}
+#cocktail {float:left; padding-left:60px; }
+#food1 {padding-left:60px; padding-top:60px;}
+#input { width: 100%; height: 30px; }
+#contact {padding-top:20px;}
+#facebook {padding-top:20px;}
+#map {padding-top:100px; padding-left:200px;}
+
+
+textarea { width: 100%; height:400px; font-family:  "Comic Sans MS", cursive, sans-serif;  }
+
+
+
+#tagline { width:812px; float:left;padding-top: 20px;  }
+
+#features { height: 400px; background-color:#F2F2F2; border-top: 1px solid #AAA; BORDER-BOTTOM: 1PX SOLID #AAA;   }
+
+#one-third-column { width: 33%; float:left; }
+
+#one-third-column #title { height: 50px; }
+
+
+
+
+
+
+#one-third-column #content { }
+
+#middle-left { width:50%; float:left }
+
+#middle-right { width:50%; float:right }
+
+
+
+#link { width: 200px; float: left; border-bottom: 1px solid #000; margin-right:10px; }
+
+#footer {  }
+
+
+
+#footer-left { width: 30%; float: left; }
+
+#footer-right { width: 70%; float: left; margin-bottom: 100px  }
+
+#footer-content { padding-left: 30px }
+
+#blog-entry p.content { border-left: 20px solid #EBEBEB; padding-left: 10px; }
+
+a:link { color:#E57609; text-decoration: none; display: block; }
+
+a:visited { text-decoration: none; }
+
+a:hover { text-decoration: underlined; background-color:#F79F81; color:#E57609 }
+
+a:active { text-decoration: none; }
+
+.logo { width:128px; height:128px; border: 0px solid #000; margin: 10px; float: left; }
+
+.author { font-style: italic; color: #ccc; }
+
+
+.date { font-style: italic; color: #ccc; font-size:12px; }
+
+
+
+.clear { clear: both; }
+
+.article_more {width:100%; height :30px; font-size:16px; }
+
+.do-contact { width: 100%; text-align: center; height: 30px; }
